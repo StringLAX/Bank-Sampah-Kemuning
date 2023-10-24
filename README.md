@@ -10,7 +10,7 @@ Halo dan selamat datang di repositori proyek Website Company Profile & Pendataan
 
 Seperti namanya, repositori ini digunakan sebagai repositori kerja utama untuk proyek Website Company Profile & Pendataan Data Nasabah Bank Sampah Kemuning. Proyek ini dibangun mengunakan bahasa PHP Native.
 
-### Aplikasi ini dibangun dengan: 
+### Website ini dibangun dengan: 
 
 A. UI / UX Design
 * [Figma](https://www.figma.com/file/MjpKD0d7uQZ9OAGi1mPyIu/P3L?type=design&node-id=0%3A1&mode=design&t=T75KdUCtOHnsE86h-1)
