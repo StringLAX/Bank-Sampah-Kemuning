@@ -1,6 +1,6 @@
 # Anda sedang berada di repository Website Bank Sampah Kemuning oleh PT. Alfierdi Tech Lancar Jaya.
 
-<p align="center"> <img src="https://media.discordapp.net/attachments/765174588971679774/1162990803807907870/image.png" width="150" height="150" /> </p>
+<p align="center"> <img src="https://media.discordapp.net/attachments/748033357635387422/1166401500721971280/image_2023-10-24_224253916-removebg-preview.png" width="150" height="150" /> </p>
 <p align="center"> <img src="https://media.discordapp.net/attachments/914832792809013268/1166246567821455481/Logo_P3L_Recovered.png" width="150" height="150" /> </p>
 <div align="center">
 </div>
