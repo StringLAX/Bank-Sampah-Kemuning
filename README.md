@@ -49,11 +49,11 @@ Berikut adalah beberapa fitur yang dapat dicoba di website Bank Sampah Kemuning:
   - Laporan
   - Transaksi Sampah Baru
   - Seluruh Riwayat Transaksi Nasabah
+* Nasabah:
+  - Dashboard Nasabah
+  - History Transaksi Nasabah
 * Company Profile:
   - Beranda
   - Tentang Kami
   - Kegiatan
   - Kontak Kami
-* Nasabah:
-  - Dashboard Nasabah
-  - History Transaksi Nasabah
