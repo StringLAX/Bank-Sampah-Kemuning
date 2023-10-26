@@ -35,7 +35,7 @@ Anda dapat memilih untuk menggunakan salah satu dari dua metode di bawah ini unt
 	   ```sh
 	   git clone https://github.com/StringLAX/Bank-Sampah-Kemuning
 	   ```
-	- GitHub CLI: Tilis ini di command line: 
+	- GitHub CLI: Tulis ini di command line: 
 	   ```sh
 	   gh repo clone StringLAX/Bank-Sampah-Kemuning
 	   ```
