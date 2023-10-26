@@ -17,6 +17,7 @@ A. UI / UX Design
 
 B. Website Tech
 * [Vuexy](https://pixinvent.com/vuexy-bootstrap-html-admin-template/)
+* [Bootstrap](https://getbootstrap.com)
 
 ### Prasyarat
 Persyaratan minimum untuk menggunakan website ini adalah perangkat apa pun yang dapat menjalankan Google Chrome dan Google Chrome versi 103 atau lebih tinggi. Untuk hasil yang optimal, disarankan untuk menggunakan perangkat dengan layar resolusi 1024 x 768 atau lebih tinggi dan Google Chrome versi terbaru.
