@@ -16,7 +16,7 @@ A. UI / UX Design
 * [Figma](https://www.figma.com/file/MjpKD0d7uQZ9OAGi1mPyIu/P3L?type=design&node-id=0%3A1&mode=design&t=T75KdUCtOHnsE86h-1)
 
 B. Website Tech
-* [Dashboard by Vuexy](https://pixinvent.com/vuexy-bootstrap-html-admin-template/)
+* [Vuexy](https://pixinvent.com/vuexy-bootstrap-html-admin-template/)
 
 ### Prasyarat
 Persyaratan minimum untuk menggunakan website ini adalah perangkat apa pun yang dapat menjalankan Google Chrome dan Google Chrome versi 103 atau lebih tinggi. Untuk hasil yang optimal, disarankan untuk menggunakan perangkat dengan layar resolusi 1024 x 768 atau lebih tinggi dan Google Chrome versi terbaru.
